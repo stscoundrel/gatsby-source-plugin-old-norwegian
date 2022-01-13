@@ -1,4 +1,4 @@
-import exampleModule from '../src';
+import exampleModule from '../src/gatsby-node';
 
 describe('Example tests', () => {
   test('Test suite runs', () => {
