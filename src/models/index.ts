@@ -8,3 +8,16 @@ export interface GatsbyDictionaryEntry extends DictionaryEntry {
   slug: string;
   startsWith: string;
 }
+
+/**
+ * Nodified version of entry with internal Gatsby fields.
+ */
+export interface DictionaryEntryNode extends GatsbyDictionaryEntry {
+  id: string,
+  parent: string | null,
+  children: string[],
+  internal: {
+    type: string,
+    contentDigest: string,
+  }
+}
