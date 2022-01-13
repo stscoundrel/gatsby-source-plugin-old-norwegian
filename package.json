@@ -37,6 +37,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-jest": "^25.3.4",
+    "gatsby-plugin-utils": "^2.5.0",
     "jest": "^27.4.7",
     "ts-jest": "^27.1.2",
     "ts-node": "^10.4.0",
