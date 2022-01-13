@@ -36,6 +36,12 @@ describe('Dictionary tests', () => {
   });
 
   test('Dictionary contains expected content', () => {
+    expect(entries[0].word).toBe('-æri');
+    expect(entries[0].partOfSpeech).toBe('uten ordklasse');
+    expect(entries[0].slug).toBe('aeri');
+    expect(entries[0].definition).toBe('-æri (af ár dvs. Aar) i hallæri.');
+    expect(entries[0].startsWith).toBe('Æ');
+
     expect(entries[25000].word).toBe('náðuliga');
     expect(entries[25000].partOfSpeech).toBe('adv');
     expect(entries[25000].slug).toBe('naduliga');
