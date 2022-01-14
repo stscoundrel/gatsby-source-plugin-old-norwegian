@@ -34,7 +34,7 @@ To use the plugin in your Gatsby project, just add it to plugins config:
 module.exports {
   // Your other configs.
   plugins: [
-    "gatsby-source-plugin-zoega"
+    "gatsby-source-plugin-old-norwegian"
   ]
 }
 ```
