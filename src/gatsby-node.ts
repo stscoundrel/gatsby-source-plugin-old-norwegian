@@ -4,8 +4,10 @@ import { parseGatsbyNodes } from './services/datalayer';
 
 /**
  * Main Gatsby hook for creating nodes to datalayer.
+ *
+ * Gatsby only wants certain named exports, so ignore default exports here
  */
-export const sourceNodes = (
+export const sourceNodes = ( // eslint-disable-line import/prefer-default-export
   { actions, createNodeId, createContentDigest },
 ) => {
   const { createNode } = actions;
@@ -16,8 +18,4 @@ export const sourceNodes = (
   nodes.forEach((node) => {
     createNode(node);
   });
-};
-
-export default {
-  sourceNodes,
 };
