@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-plugin-old-norwegian",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby Source plugin for Old Norwegian/Norse dictionary",
   "repository": "https://github.com/stscoundrel/gatsby-source-plugin-old-norwegian.git",
   "author": "stscoundrel <silvennoinen.sampo@gmail.com>",
