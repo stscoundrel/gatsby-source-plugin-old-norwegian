@@ -4618,10 +4618,10 @@ object.values@^1.1.5:
     define-properties "^1.1.3"
     es-abstract "^1.19.1"
 
-old-norwegian-dictionary@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/old-norwegian-dictionary/-/old-norwegian-dictionary-0.9.0.tgz#f125bb9e98134a3ca7e2c6a4808101465e84435e"
-  integrity sha512-Dj0e26yQnfGJ+fAp7W2b4gkTe2hAzMMfU1QZoLOWfEXBpcE0NUUcqNwjEBebItsPua3Zg9sMPPJIkvmQUyiLEg==
+old-norwegian-dictionary@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/old-norwegian-dictionary/-/old-norwegian-dictionary-1.0.0.tgz#d8f1c8a39157e2a1f93a7f291fea97c6db479248"
+  integrity sha512-DHPBRAMhjoGHZ4XoD7kweL84dsBRI5z1WfDwGH4VF/tGldzRpvqNnXvI6D4DiODrH7QPbMSvG/r76BJveuoMoA==
 
 once@^1.3.0, once@^1.3.1, once@^1.4.0:
   version "1.4.0"
