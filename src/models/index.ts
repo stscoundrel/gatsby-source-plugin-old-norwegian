@@ -1,4 +1,4 @@
-import { DictionaryEntry } from 'old-norwegian-dictionary/dist/models';
+import { DictionaryEntry } from 'old-norwegian-dictionary/dist';
 
 /**
  * Extended "gatsby" version of DictionaryEntry.
