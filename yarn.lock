@@ -5371,9 +5371,9 @@ object.values@^1.1.5:
     es-abstract "^1.19.1"
 
 old-norwegian-dictionary@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/old-norwegian-dictionary/-/old-norwegian-dictionary-1.0.2.tgz#511ec15a52668bdc528bfa7d7478f6d2b39568d9"
-  integrity sha512-OX+Aw17Is/0Ubu+E1EAmsrdgdgYU16wUX0em2nY84xbf9CGDPb8dVlXCyur+TJEmJfYAaueGK1dP1tfJ/xTnJQ==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/old-norwegian-dictionary/-/old-norwegian-dictionary-1.0.4.tgz#a90a6ad8da7b952d6f66596758eec1d854e134b1"
+  integrity sha512-EStm77gS+Z/TSN9kJqk3sALYZ0okkGoWiI7ecSz4DAsJolO1tnbdTxq6slKa3AHji1qhD1qH+XemD1zFJc4WdA==
 
 omggif@^1.0.10, omggif@^1.0.9:
   version "1.0.10"
